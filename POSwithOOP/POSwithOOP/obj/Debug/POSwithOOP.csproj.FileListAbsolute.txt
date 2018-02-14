@@ -1,0 +1,12 @@
+H:\Hossain Kabir\POS V2\POSwithOOP\POSwithOOP\bin\Debug\POSwithOOP.exe.config
+H:\Hossain Kabir\POS V2\POSwithOOP\POSwithOOP\bin\Debug\POSwithOOP.exe
+H:\Hossain Kabir\POS V2\POSwithOOP\POSwithOOP\bin\Debug\POSwithOOP.pdb
+H:\Hossain Kabir\POS V2\POSwithOOP\POSwithOOP\obj\Debug\POSwithOOP.csprojResolveAssemblyReference.cache
+H:\Hossain Kabir\POS V2\POSwithOOP\POSwithOOP\obj\Debug\POSwithOOP.exe
+H:\Hossain Kabir\POS V2\POSwithOOP\POSwithOOP\obj\Debug\POSwithOOP.pdb
+E:\dot Net Training Practice\POSwithOOP\POSwithOOP\bin\Debug\POSwithOOP.exe.config
+E:\dot Net Training Practice\POSwithOOP\POSwithOOP\bin\Debug\POSwithOOP.exe
+E:\dot Net Training Practice\POSwithOOP\POSwithOOP\bin\Debug\POSwithOOP.pdb
+E:\dot Net Training Practice\POSwithOOP\POSwithOOP\obj\Debug\POSwithOOP.exe
+E:\dot Net Training Practice\POSwithOOP\POSwithOOP\obj\Debug\POSwithOOP.pdb
+E:\dot Net Training Practice\POSwithOOP\POSwithOOP\obj\Debug\POSwithOOP.csprojResolveAssemblyReference.cache

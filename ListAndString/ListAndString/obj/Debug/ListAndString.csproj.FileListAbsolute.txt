@@ -1,0 +1,12 @@
+E:\Hossain Kabir\C#  Code\ListAndString\ListAndString\bin\Debug\ListAndString.exe.config
+E:\Hossain Kabir\C#  Code\ListAndString\ListAndString\bin\Debug\ListAndString.exe
+E:\Hossain Kabir\C#  Code\ListAndString\ListAndString\bin\Debug\ListAndString.pdb
+E:\Hossain Kabir\C#  Code\ListAndString\ListAndString\obj\Debug\ListAndString.csprojResolveAssemblyReference.cache
+E:\Hossain Kabir\C#  Code\ListAndString\ListAndString\obj\Debug\ListAndString.exe
+E:\Hossain Kabir\C#  Code\ListAndString\ListAndString\obj\Debug\ListAndString.pdb
+E:\dot Net Training Practice\ListAndString\ListAndString\bin\Debug\ListAndString.exe.config
+E:\dot Net Training Practice\ListAndString\ListAndString\obj\Debug\ListAndString.exe
+E:\dot Net Training Practice\ListAndString\ListAndString\obj\Debug\ListAndString.pdb
+E:\dot Net Training Practice\ListAndString\ListAndString\bin\Debug\ListAndString.exe
+E:\dot Net Training Practice\ListAndString\ListAndString\bin\Debug\ListAndString.pdb
+E:\dot Net Training Practice\ListAndString\ListAndString\obj\Debug\ListAndString.csprojResolveAssemblyReference.cache

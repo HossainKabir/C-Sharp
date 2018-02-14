@@ -1,0 +1,18 @@
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmDAL\bin\Debug\vmmDAL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmDAL\bin\Debug\vmmDAL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.csprojResolveAssemblyReference.cache
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.pdb
+D:\FinalProject\VirtualMessManager\vmmDAL\bin\Debug\vmmDAL.dll
+D:\FinalProject\VirtualMessManager\vmmDAL\bin\Debug\vmmDAL.pdb
+D:\FinalProject\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.csprojResolveAssemblyReference.cache
+D:\FinalProject\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.dll
+D:\FinalProject\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmDAL\bin\Debug\vmmDAL.dll
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmDAL\bin\Debug\vmmDAL.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.dll
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmDAL\bin\Debug\vmmDAL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmDAL\bin\Debug\vmmDAL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmDAL\obj\Debug\vmmDAL.pdb

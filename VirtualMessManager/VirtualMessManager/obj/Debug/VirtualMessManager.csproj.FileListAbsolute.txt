@@ -1,0 +1,90 @@
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.exe.config
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.exe
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBAL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBEL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmDAL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBAL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBEL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmDAL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.csprojResolveAssemblyReference.cache
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Properties.Resources.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.RegistrationForm.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.csproj.GenerateResource.Cache
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.exe
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Login.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Manager.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Member.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.AdminSession.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Add_Bazar.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.MemberInformation.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.exe.config
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.exe
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.pdb
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.csprojResolveAssemblyReference.cache
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Add_Bazar.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.AdminSession.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Login.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Manager.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Member.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.MemberInformation.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Properties.Resources.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.RegistrationForm.resources
+D:\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.csproj.GenerateResource.Cache
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.exe.config
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.exe
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.exe
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBAL.dll
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBEL.dll
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmDAL.dll
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBAL.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBEL.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\bin\Debug\vmmDAL.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.csprojResolveAssemblyReference.cache
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Add_Bazar.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.AdminSession.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Login.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Member.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.MemberInformation.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Properties.Resources.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.RegistrationForm.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.csproj.GenerateResource.Cache
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Manager.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Book_Meal.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.SeeBookedMeal.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.SeeBazarHistory.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.EditMealChart.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.EditBazar.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.AdminChange.resources
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Calculation.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.exe.config
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.exe
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.exe
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\VirtualMessManager.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBAL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBEL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\vmmDAL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBAL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\vmmBEL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\bin\Debug\vmmDAL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.csprojResolveAssemblyReference.cache
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Add_Bazar.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.AdminChange.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.AdminSession.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Book_Meal.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Calculation.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.EditBazar.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.EditMealChart.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Login.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Manager.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Member.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.MemberInformation.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.Properties.Resources.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.RegistrationForm.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.SeeBazarHistory.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.SeeBookedMeal.resources
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\VirtualMessManager\obj\Debug\VirtualMessManager.csproj.GenerateResource.Cache

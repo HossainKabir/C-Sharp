@@ -1,0 +1,18 @@
+c:\users\hossain kabir\documents\visual studio 2015\Projects\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.exe.config
+c:\users\hossain kabir\documents\visual studio 2015\Projects\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.exe
+c:\users\hossain kabir\documents\visual studio 2015\Projects\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.pdb
+c:\users\hossain kabir\documents\visual studio 2015\Projects\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.csprojResolveAssemblyReference.cache
+c:\users\hossain kabir\documents\visual studio 2015\Projects\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.exe
+c:\users\hossain kabir\documents\visual studio 2015\Projects\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.pdb
+H:\Hossain Kabir\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.exe.config
+H:\Hossain Kabir\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.exe
+H:\Hossain Kabir\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.pdb
+H:\Hossain Kabir\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.exe
+H:\Hossain Kabir\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.pdb
+H:\Hossain Kabir\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.csprojResolveAssemblyReference.cache
+E:\dot Net Training Practice\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.exe.config
+E:\dot Net Training Practice\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.exe
+E:\dot Net Training Practice\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.pdb
+E:\dot Net Training Practice\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.exe
+E:\dot Net Training Practice\SimpleConsolePOS\SimpleConsolePOS\bin\Debug\SimpleConsolePOS.pdb
+E:\dot Net Training Practice\SimpleConsolePOS\SimpleConsolePOS\obj\Debug\SimpleConsolePOS.csprojResolveAssemblyReference.cache

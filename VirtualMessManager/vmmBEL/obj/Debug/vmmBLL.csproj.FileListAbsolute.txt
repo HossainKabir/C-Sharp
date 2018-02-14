@@ -1,0 +1,15 @@
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\bin\Debug\vmmBEL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\bin\Debug\vmmBEL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBLL.csprojResolveAssemblyReference.cache
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmBEL\bin\Debug\vmmBEL.dll
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmBEL\bin\Debug\vmmBEL.pdb
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBLL.csprojResolveAssemblyReference.cache
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.dll
+C:\Users\rejau\Desktop\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmBEL\bin\Debug\vmmBEL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmBEL\bin\Debug\vmmBEL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmBEL\obj\Debug\vmmBLL.csprojResolveAssemblyReference.cache
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\I am Final\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.pdb

@@ -1,0 +1,5 @@
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\bin\Debug\vmmBEL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\bin\Debug\vmmBEL.pdb
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.csprojResolveAssemblyReference.cache
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.dll
+E:\SEMESTER 8\OBJECT ORIENTED PROGRAMMING 2 [H]\FinalProject\VirtualMessManager\vmmBEL\obj\Debug\vmmBEL.pdb
